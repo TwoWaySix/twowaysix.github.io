@@ -1,7 +1,7 @@
 baseURL = 'https://twowaysix.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'Ananke Gohugo Theme'
+theme = 'ananke'
 paginate = 2
 Copyright = '(c) Paz Vi'
 canonifyurls = true
@@ -41,8 +41,6 @@ pre = "<br />"
 url = "/post"
 weight = 40
 
-[permalinks]
-post = "/:slug/"​
 
 [sitemap]
 ChangeFreq = ""
