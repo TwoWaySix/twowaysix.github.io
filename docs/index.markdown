@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi, my name is Paz (:es: Peace). I am a
+Hi, my name is Paz (:es: peace). I am a
 * Environmental Engineer
 * Software Developer
 * Composer & Music Producer
@@ -9,11 +9,14 @@ Hi, my name is Paz (:es: Peace). I am a
 that loves and lives the **open source mentality**. 
 I believe in and strife for a better world in my everyday life and work. 
 
+### :earth_africa: Preface 
 As human beings, we have achieved a lot, 
-but are still kinda blind towards our greatest challenge yet, 
+but are still kinda blind towards our greatest challenge yet...  
 even though it's lying right before our feet: *climate change*. 
-***Who cares if it was our man made or not after we've let it wipe us of our planet?***
 
+***Does it really matter if it is man made or not after we've let it wipe us of the planet?***
+
+Let's make our world worthwhile. Not only for us, but for our children and their children.
 
 ## :computer: Software Developer
 
