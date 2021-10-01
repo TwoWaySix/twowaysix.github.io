@@ -5,9 +5,9 @@
 * Photographer
 
 
-## Software Developer
+## :computer: Software Developer
 
-As an *environmental and civil engineer* by training, 
+As an *environmental and civil engineer* by training :deciduous_tree:, 
 the need to **process** and **visualize** huge amounts of data 
 and **simulating** real world phenomena has always been my cup of tea.
 
@@ -15,10 +15,10 @@ My languages of choice:
 * :snake: **Python**: visualizing, scripting, ML
 * :crab: **Rust**: High performance code, simulations, CLI tools
 * :coffee: **Java**: Big applications, necessity of a wide ecosystem
-* **Typescript**: Web frontends
+* :spider_web: **Typescript**: Web frontends
 
 
-## Composer & Music Producer
+## :guitar: Composer & Music Producer
 
 Listening to and playing music has been my biggest interest since my early childhood. 
 I am a **multi-instrumentalist** and vocalist with a focus on guitar, bass and drums.
@@ -31,7 +31,7 @@ but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, p
  <iframe width="560" height="315" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Photographer
+## :cityscape: Photographer
 
 At around 2006 my interested in photography skyrocketed. 
 My focus has always been **portrait, street, landscape** and **cityscape** photography - at best combined into one photo.
