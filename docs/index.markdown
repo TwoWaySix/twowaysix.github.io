@@ -23,9 +23,9 @@ My languages of choice:
 Listening to and playing music has been my biggest interest since my early childhood. 
 I am a **multi-instrumentalist** and vocalist with a focus on guitar, bass and drums.
 
-Using Linux native tools (***Bitwig Studio***), I **play, record and produce** my music all by myself. 
+Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce** my music all by myself. 
 
-My biggest inspirations are ***Radiohead, Polyphia and John Frusciante***, 
+My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
