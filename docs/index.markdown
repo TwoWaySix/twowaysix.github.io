@@ -12,9 +12,9 @@ the need to **process** and **visualize** huge amounts of data
 and **simulating** real world phenomena has always been my cup of tea.
 
 My languages of choice:
-* **Python**: visualizing, scripting, ML
-* **Rust**: High performance code, simulations, CLI tools
-* **Java**: Big applications, necessity of a wide ecosystem
+* :snake: **Python**: visualizing, scripting, ML
+* :crab: **Rust**: High performance code, simulations, CLI tools
+* :coffee: **Java**: Big applications, necessity of a wide ecosystem
 * **Typescript**: Web frontends
 
 
