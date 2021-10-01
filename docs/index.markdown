@@ -1,6 +1,7 @@
 # Who am I?
 
-Hi, my name is Paz (:es: Peace). I consider myself to be a
+Hi, my name is Paz (:es: Peace). I am a
+* Environmental Engineer
 * Software Developer
 * Composer & Music Producer
 * Photographer
