@@ -1,5 +1,10 @@
 # Who am I?
 
+* Software Developer
+* Composer & Music Producer
+* Photographer
+
+
 ## Software Developer
 
 As an environmental and civil engineer by training, 
