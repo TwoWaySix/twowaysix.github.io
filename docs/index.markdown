@@ -1,11 +1,16 @@
 # Who am I?
 
 ## Software Developer
-As an environmental and civil engineer by training, the need to process and visualize data and 
-Python
-Rust
-Java
-C++
+As an environmental and civil engineer by training, 
+the need to process and visualize huge amounts of data 
+and simulating real world phenomena has always been my cup of tea.
+
+My languages of choice:
+* Python: visualizing, scripting, ML
+* Rust: High performance code, simulations, CLI tools
+* Java: Big applications, necessity of a wide ecosystem
+* Typescript: Web frontends
+
 
 ## Composer & Music Producer
 Listening to and playing music has been my biggest interest since my early childhood. 
