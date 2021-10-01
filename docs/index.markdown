@@ -1,8 +1,17 @@
 # Who am I?
 
+Hi, my name is Paz (:es: Peace). I consider myself to be a
 * Software Developer
 * Composer & Music Producer
 * Photographer
+
+that loves and lives the **open source mentality**. 
+I believe in and strife for a better world in my everyday life and work. 
+
+As human beings, we have achieved a lot, 
+but are still kinda blind towards our greatest challenge yet, 
+even though it's lying right before our feet: *climate change*. 
+***Who cares if it was our man made or not after we've let it wipe us of our planet?***
 
 
 ## :computer: Software Developer
