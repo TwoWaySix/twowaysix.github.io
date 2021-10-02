@@ -1,7 +1,7 @@
 # Who am I?
 
 Hi, my name is Paz (:es: peace). I am a
-* Environmental Engineer
+* Environmental and Civil Engineer
 * Software Developer
 * Composer & Music Producer
 * Photographer
@@ -20,7 +20,7 @@ Let's make our world worthwhile. Not only for us, but for our children and their
 
 
 
-## :computer: I am a Software Developer
+## :computer: Software Developer
 
 As an *environmental and civil engineer* by training :deciduous_tree:, 
 the need to **process** and **visualize** huge amounts of data 
@@ -32,9 +32,11 @@ My languages of choice:
 * :coffee: **Java**: Big applications, necessity of a wide ecosystem
 * :spider_web: **Typescript**: Web frontends
 
+You can find my Open Source Projects on <a href="https://github.com/TwoWaySix">Github</a>.
 
 
-## :guitar: I am a Composer & Music Producer
+
+## :guitar: Composer & Music Producer
 
 Listening to and playing music has been my biggest interest since my early childhood. 
 I am a **multi-instrumentalist** and vocalist with a focus on guitar, bass and drums.
@@ -45,9 +47,10 @@ Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce
 My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
+You can find my Music on <a href="https://www.youtube.com/channel/UCtItUmyBD4v76AmDD8b0agA">Youtube</a> and <a href="https://www.instagram.com/twowaysix/">Instagram</a>.
 
 
-## :cityscape: I am a Photographer
+## :cityscape: Photographer
 
 At around 2006 my interested in photography skyrocketed. 
 My focus has always been **portrait, street, landscape** and **cityscape** photography - at best combined into one photo.
@@ -55,4 +58,6 @@ My focus has always been **portrait, street, landscape** and **cityscape** photo
 <img src="https://raw.githubusercontent.com/TwoWaySix/forbild-hashing/main/data/original/2017_China_Chongqing_Boats.jpg">
 
 Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
+
+You can find my Photography on <a href="https://www.instagram.com/twowaysix/">Instagram</a>.
 
