@@ -18,7 +18,9 @@ even though it's lying right before our feet: *climate change*.
 
 Let's make our world worthwhile. Not only for us, but for our children and their children.
 
-## :computer: Software Developer
+
+
+## :computer: I am a Software Developer
 
 As an *environmental and civil engineer* by training :deciduous_tree:, 
 the need to **process** and **visualize** huge amounts of data 
@@ -31,24 +33,26 @@ My languages of choice:
 * :spider_web: **Typescript**: Web frontends
 
 
-## :guitar: Composer & Music Producer
+
+## :guitar: I am a Composer & Music Producer
 
 Listening to and playing music has been my biggest interest since my early childhood. 
 I am a **multi-instrumentalist** and vocalist with a focus on guitar, bass and drums.
 
 Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce** my music all by myself. 
 
+ <iframe style="width: 100%; height: 500px" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
- <iframe style="width: 100%; height: 500px" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## :cityscape: Photographer
+## :cityscape: I am a Photographer
 
 At around 2006 my interested in photography skyrocketed. 
 My focus has always been **portrait, street, landscape** and **cityscape** photography - at best combined into one photo.
 
-Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
 <img src="https://raw.githubusercontent.com/TwoWaySix/forbild-hashing/main/data/original/2017_China_Chongqing_Boats.jpg">
+
+Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
 
