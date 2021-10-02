@@ -9,6 +9,8 @@ Hi, my name is Paz (:es: peace). I am a
 that loves and lives the **open source mentality**. 
 I believe in and strife for a better world in my everyday life and work. 
 
+<br>
+
 ### :earth_africa: Preface 
 As human beings, we have achieved a lot, 
 but are still kinda blind towards our greatest challenge yet...  
@@ -18,7 +20,7 @@ even though it's lying right before our feet: *climate change*.
 
 Let's make our world worthwhile. Not only for us, but for our children and their children.
 
-
+<br>
 
 ## :computer: Software Developer
 
@@ -32,9 +34,9 @@ My languages of choice:
 * :coffee: **Java**: Big applications, necessity of a wide ecosystem
 * :spider_web: **Typescript**: Web frontends
 
-You can find my Open Source Projects on <a href="https://github.com/TwoWaySix">Github</a>.
+**You can find my Open Source Projects on** <a href="https://github.com/TwoWaySix"><b>Github</b></a>.
 
-
+<br>
 
 ## :guitar: Composer & Music Producer
 
@@ -47,8 +49,9 @@ Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce
 My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
-You can find my Music on <a href="https://www.youtube.com/channel/UCtItUmyBD4v76AmDD8b0agA">Youtube</a> and <a href="https://www.instagram.com/twowaysix/">Instagram</a>.
+**You can find my Music on** <a href="https://www.youtube.com/channel/UCtItUmyBD4v76AmDD8b0agA"><b>Youtube</b></a> **and** <a href="https://www.instagram.com/twowaysix/"><b>Instagram</b></a>.
 
+<br>
 
 ## :cityscape: Photographer
 
@@ -59,5 +62,5 @@ My focus has always been **portrait, street, landscape** and **cityscape** photo
 
 Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
 
-You can find my Photography on <a href="https://www.instagram.com/twowaysix/">Instagram</a>.
+**You can find my Photography on** <a href="https://www.instagram.com/twowaysix/"><b>Instagram</b></a>.
 
