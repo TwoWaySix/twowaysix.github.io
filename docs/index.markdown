@@ -41,7 +41,7 @@ Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce
 My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
- <iframe width="100%" height="auto" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## :cityscape: Photographer
