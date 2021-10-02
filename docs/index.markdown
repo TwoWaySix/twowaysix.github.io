@@ -41,7 +41,7 @@ Using Linux native tools (***Bitwig Studio***), I **play, record** and **produce
 My biggest inspirations are **Radiohead, Polyphia and John Frusciante**, 
 but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, progressive rock/metal, post/math/art-rock, grunge, ambient, shoegazing, video game music, metalcore, 90s hip hop, classical music).
 
- <iframe width="100%" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe style="width: 100%;" src="https://www.youtube.com/embed/2pp2SPDk1is" title="YouTube video player" frame border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## :cityscape: Photographer
@@ -50,4 +50,5 @@ At around 2006 my interested in photography skyrocketed.
 My focus has always been **portrait, street, landscape** and **cityscape** photography - at best combined into one photo.
 
 Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
+<img src="https://raw.githubusercontent.com/TwoWaySix/forbild-hashing/main/data/original/2017_China_Chongqing_Boats.jpg">
 
