@@ -18,7 +18,7 @@ but are still kinda blind towards our greatest challenge yet... even though it's
 
 ***Does it really matter if it is man made or not after we've let it wipe us of the planet?***
 
-Let's make our world worthwhile. Not only for us, but for our children and their children.
+Let's make the time we spend on our blue planet worthwhile. Not only for us, but for our children and their children.
 
 <br>
 
