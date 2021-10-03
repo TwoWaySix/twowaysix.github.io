@@ -62,7 +62,7 @@ At around 2006 my interested in photography skyrocketed. My focus has always bee
 <br><br>
 <img src="https://images.unsplash.com/photo-1633257326966-12f5a982f429?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80" style="height: auto; width: 100%">
 
-Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
+Traveling around the globe, I keep my eyes open for scenes that are worth the extra time and effort to get a worthwhile memory.
 
 **You can find more of my Photography on** <a href="https://unsplash.com/@twowaysix"><b>Unsplash</b></a> **and** <a href="https://www.instagram.com/twowaysix/"><b>Instagram</b></a>.
 
