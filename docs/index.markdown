@@ -55,8 +55,11 @@ but my influences come from a wide variety of genres (e.g. lofi hip hop, trap, p
 At around 2006 my interested in photography skyrocketed. My focus has always been **portrait, street, landscape** and **cityscape** photography - at best combined into one photo.
 
 <img src="https://images.unsplash.com/photo-1633257712872-f1dbe3032c29?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1740&q=80" style="height: auto; width: 100%">
+<br>
 <img src="https://images.unsplash.com/photo-1633257266139-c3ea8f34e7bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1332&q=80" style="height: auto; width: 100%">
+<br>
 <img src="https://images.unsplash.com/photo-1633257509186-b788d27a3e44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1722&q=80" style="height: auto; width: 100%">
+<br>
 <img src="https://images.unsplash.com/photo-1633257326966-12f5a982f429?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80" style="height: auto; width: 100%">
 
 Traveling around the globe, I keep my eyes open for scenes that a worth the extra time to get the perfect shot.
