@@ -28,7 +28,8 @@ As an *environmental and civil engineer* by training :deciduous_tree:, the need 
 
 My languages of choice:
 * :snake: **Python**: visualizing, scripting, ML
-* :crab: **Rust**: High performance code, simulations, CLI tools
+* :mouse: **Go**: Backend development and CLI tools
+* :crab: **Rust**: High performance code, simulations
 * :coffee: **Java**: Big applications, necessity of a wide ecosystem
 * :spider_web: **Typescript**: Web frontends
 
